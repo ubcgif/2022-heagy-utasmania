@@ -1,2 +1,2 @@
-# template-repository-conference
-template repository for conference proceedings
+# Computational geophysics in a changing climate 
+
