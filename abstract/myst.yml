@@ -36,7 +36,7 @@ site:
   template: article-theme
   actions:
     - title: slides
-      url: abstract/presentation/heagy_2022_utasmania.pdf
+      url: presentation/heagy_2022_utasmania.pdf
       static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
