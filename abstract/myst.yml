@@ -1,7 +1,7 @@
 version: 1
 project:
   id: ubcgif-2022-heagy-utasmania
-  title: Computational geophysics in a changing climate 
+  title: Computational geophysics in a changing climate
   description: Seminar presented to the University of Tasmania
   authors:
     - name: Lindsey J. Heagy
@@ -11,7 +11,7 @@ project:
       affiliation:
         id: ubc
         name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
-  # banner: banner.png
+  banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
@@ -20,7 +20,7 @@ project:
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  date: 2022/04/01
+  date: 2022-04-01
   abbreviations:
     # DC: direct current
     # EM: electromagnetics
